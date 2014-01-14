@@ -1,0 +1,31 @@
+body {
+  color: #444;
+  font: 16px/1.24 Helvetica, Sans-serif;
+}
+
+p {
+  max-width: 40em;
+}
+
+.Everything {
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+article {
+  margin: 2rem;
+  border-bottom: 2px black solid;
+}
+
+dt {
+  border-top: 1px black solid;
+  font-size: small;
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
+
+dd {
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  padding-bottom: 1rem;
+}
